@@ -34,4 +34,7 @@ Customer and sales transaction data.
 
 ## Dashboard
 
-(Add dashboard image here)
+<img width="1189" height="664" alt="outputttttt" src="https://github.com/user-attachments/assets/6572ca52-28ea-4b9f-8485-60de50325cba" />
+
+
+
